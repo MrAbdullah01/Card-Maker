@@ -1,0 +1,12 @@
+const String splashScreen = "images/splash_screen.png";
+const String profile = "images/profile.png";
+const String bg_1 = "images/bg1.png";
+const String bg_2 = "images/bg2.png";
+const String bg_3 = "images/bg3.png";
+const String addressIcon = "images/address.png";
+const String emailIcon = "images/email.png";
+const String phoneIcon = "images/call.png";
+const String card_1 = "images/card_1.png";
+const String card_2 = "images/card_2.png";
+const String card_3 = "images/card_3.png";
+const String card_4 = "images/card_4.png";
